@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetWorkUtils-extend.iml" filepath="$PROJECT_DIR$/NetWorkUtils-extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoNetWorkUtils/NoNetWorkUtils.iml" filepath="$PROJECT_DIR$/NoNetWorkUtils/NoNetWorkUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkNetWorkUtils/OkNetWorkUtils.iml" filepath="$PROJECT_DIR$/OkNetWorkUtils/OkNetWorkUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

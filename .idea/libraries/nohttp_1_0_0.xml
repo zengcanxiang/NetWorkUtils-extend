@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="nohttp-1.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/NoNetWorkUtils/build/intermediates/exploded-aar/com.yolanda.nohttp/nohttp/1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/NoNetWorkUtils/build/intermediates/exploded-aar/com.yolanda.nohttp/nohttp/1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
