@@ -1,1 +1,1 @@
-include ':app', ':OkNetWorkUtils', ':NoNetWorkUtils'
+include ':app', ':NetWorkUtils-NoHttp', ':NetWorkUtils-OkHttp'

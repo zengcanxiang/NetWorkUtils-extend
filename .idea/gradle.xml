@@ -9,8 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/NoNetWorkUtils" />
-            <option value="$PROJECT_DIR$/OkNetWorkUtils" />
+            <option value="$PROJECT_DIR$/NetWorkUtils-NoHttp" />
+            <option value="$PROJECT_DIR$/NetWorkUtils-OkHttp" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
