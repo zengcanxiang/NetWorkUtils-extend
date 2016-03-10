@@ -8,10 +8,10 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        minSdkVersion 19
+        minSdkVersion 9
         targetSdkVersion 23
         versionCode 1
-        versionName "1.0"
+        versionName version
     }
     buildTypes {
         release {
@@ -23,15 +23,14 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:23.1.0'
-    compile 'com.zengcanxiang:NetWork:1.0.0'
+    compile 'com.zengcanxiang:NetWork:1.0.1'
     compile 'com.yolanda.nohttp:nohttp:1.0.0'
 }
 
 def siteUrl = 'https://github.com/zengcanxiang/NetWorkUtils-extend'
 def gitUrl = 'https://github.com/zengcanxiang/NetWorkUtils-extend.git'
 
-version = "1.0.0"
+version = "1.0.1"
 group = "com.zengcanxiang"
 ext {
     ProjectDescription = "Extended NetWorkUtils library, according to NoHttp"
